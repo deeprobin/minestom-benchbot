@@ -20,6 +20,7 @@
 .idea/**/dbnavigator.xml
 .idea/**/aws.xml
 .idea/**/gradle.xml
+.idea/**/vcs.xml
 .idea/**/libraries
 .idea/artifacts
 .idea/compiler.xml
